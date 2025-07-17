@@ -6,3 +6,8 @@
 # datahub
 - datahub is needed Python 3.11. See below.
 - Python versions above 3.11 are not actively tested with yet. Please use Python 3.11 for now.
+
+
+
+# Apply the command below
+- sudo sysctl -w vm.max_map_count=262144
